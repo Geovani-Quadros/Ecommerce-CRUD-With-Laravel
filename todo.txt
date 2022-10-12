@@ -1,0 +1,8 @@
+
+
+**  No controller AdminHomeControlle, criar um metodo orientado a objetos para fazer a validação da imagem.
+    Mesmo trecho de código se repete;
+
+**  inplantar a confirmação do delete de um produto;
+
+** Ajustar formatação de valores dos produtos (pontos e virgulas);
